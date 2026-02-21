@@ -13,7 +13,7 @@
   "dependencies": {
     "@codesandbox/sandpack-react": "*",
     "@codesandbox/sandpack-themes": "*",
-    "next": "^12.2.4",
+    "next": "^16.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
